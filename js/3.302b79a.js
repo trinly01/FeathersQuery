@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[3],{jp8l:function(e,t,n){"use strict";n.r(t);var r=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",[n("h2",[e._v("Parent")]),n("router-view")],1)},i=[];r._withStripped=!0;var l=n("KHd+"),p={},u=Object(l["a"])(p,r,i,!1,null,null,null);u.options.__file="parent1.vue";t["default"]=u.exports}}]);
